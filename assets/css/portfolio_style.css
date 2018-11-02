@@ -1,0 +1,70 @@
+.navbar {
+    margin-bottom: 50px;
+    background: gray;
+    border-bottom: 4px solid #128e97;
+
+    
+
+}
+
+
+.navbar-brand {
+    margin-right: 900px;
+    margin-left: 50px;
+    color: black;
+    
+}
+
+.nav-link {
+    color: black;
+}
+
+#about-me {
+    border-bottom: 1px solid #128e97;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    color: gray;
+}
+
+#profile-pic {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+   
+}
+
+p {
+    margin-top: 20px;
+}
+
+.sidebar {
+    background: gray;
+    border: 2px solid #128e97;
+}
+
+
+.footer {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    width: 100%;
+    background: gray;
+    
+
+
+}
+
+.copyright-header {
+    padding: 1px;
+    background: #128e97;
+}
+
+.copyright-body {
+    padding: 2px;
+}
+
+.copyright {
+    font-size: 12px;
+    color: white;
+}
