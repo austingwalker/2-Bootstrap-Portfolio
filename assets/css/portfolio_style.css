@@ -19,23 +19,18 @@
     color: black;
 }
 
-#about-me {
+#portfolio {
     border-bottom: 1px solid #128e97;
     padding-bottom: 30px;
     padding-top: 20px;
     color: gray;
 }
 
-#profile-pic {
-    margin-top: 20px;
-    width: 200px;
-    height: 200px;
-   
+p {
+    font-weight: bold;
 }
 
-p {
-    margin-top: 20px;
-}
+
 
 .sidebar {
     background: gray;
